@@ -18,7 +18,7 @@ If you see, the values in the dataset have different scales. For example in the 
 </p>
 
 ## SVM Model Performance
-In the picture above, it turns out that our model produces a fairly good accuracy, which is around 0.75 or 75%.
 <p align="center">
-    <img src="images/4_acc.JPG" width="600">
+    <img src="images/4_acc.JPG" width="200">
 </p>
+In the picture above, it turns out that our model produces a fairly good accuracy, which is around 0.75 or 75%.

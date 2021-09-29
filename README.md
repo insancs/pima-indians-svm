@@ -3,22 +3,22 @@ In this project, the dataset used is Prima Indians Diabetes. This dataset was co
 
 ## Pima Indians Dataset Preview
 <p align="center">
-    <img src="images/1_head.jpg" width="600">
+    <img src="images/1_head.JPG" width="600">
 </p>
 
 ## Pima Indians Dataset Information
 <p align="center">
-    <img src="images/2_info.jpg" width="600">
+    <img src="images/2_info.JPG" width="600">
 </p>
 
 ## Rescaling
 If you see, the values in the dataset have different scales. For example in the Glucose column and the Diabetes Genealogical Function column. We need to change the value of each attribute to be on the same scale. We can try using standardization with the StandardScaler() function from Scikit Learn.
 <p align="center">
-    <img src="images/3_scaler.jpg" width="600">
+    <img src="images/3_scaler.JPG" width="600">
 </p>
 
 ## SVM Model Performance
 In the picture above, it turns out that our model produces a fairly good accuracy, which is around 0.75 or 75%.
 <p align="center">
-    <img src="images/4_acc.jpg" width="600">
+    <img src="images/4_acc.JPG" width="600">
 </p>

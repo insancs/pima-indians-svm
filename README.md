@@ -1,0 +1,2 @@
+# pima-indians-svm
+In this project, the dataset used is Prima Indians Diabetes. This dataset was collected by the National Institute of Diabetes and Digestive and Kidney Diseases. The dataset contains 8 attribute columns and 1 label column which contains 2 classes, namely 1 and 0. The number 1 indicates the person is positive for diabetes and 0 indicates negative. The sample was 768 people consisting of 768 female patients of Indian Pima descent. The machine learning model that will be built aims to classify whether a patient is positive for diabetes or not.
